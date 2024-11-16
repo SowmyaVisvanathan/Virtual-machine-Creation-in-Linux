@@ -64,6 +64,7 @@ Launch the virtualization software on your system.
 ## OUTPUT
 
 ## RESULT
+The experiment to create and configure a Linux virtual machine (CentOS) using VirtualBox or VMware Workstation was successfully completed.
  
 
   
