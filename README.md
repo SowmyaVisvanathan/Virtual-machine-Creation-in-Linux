@@ -63,6 +63,11 @@ Launch the virtualization software on your system.
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/cd291377-89cc-4f56-b490-d97c5a5fbe14)
+
+![Screenshot 2024-11-18 172556](https://github.com/user-attachments/assets/ddfa1afb-ce24-40be-b421-041b5f75ac48)
+
+
 ## RESULT
 The experiment to create and configure a Linux virtual machine (CentOS) using VirtualBox or VMware Workstation was successfully completed.
  
